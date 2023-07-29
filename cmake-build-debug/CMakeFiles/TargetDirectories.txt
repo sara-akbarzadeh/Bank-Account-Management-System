@@ -1,0 +1,3 @@
+C:/Users/Sara/CLionProjects/Bank Account Management System/cmake-build-debug/CMakeFiles/Bank_Management.dir
+C:/Users/Sara/CLionProjects/Bank Account Management System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sara/CLionProjects/Bank Account Management System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
