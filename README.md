@@ -1,2 +1,11 @@
-# Bank-Account-Management-System
-This is a simple command-line Bank Management System implemented in C++. It allows users to create accounts, deposit and withdraw money, transfer funds between accounts, calculate interest for savings accounts, view account details, and more.
+# Bank Management System
+
+This project implements a simple bank management system using C++. It allows users to create accounts, perform transactions like deposit, withdrawal, and transfer, manage accounts, and more.
+
+## Features
+
+- **Account Management:** Create, view, and close bank accounts.
+- **Transactions:** Deposit, withdraw, and transfer money between accounts.
+- **Interest Calculation:** Calculate interest for savings accounts.
+- **Account Search:** Find an account by account holder's name.
+- **User Interface:** Simple command-line interface with a menu-driven system.
